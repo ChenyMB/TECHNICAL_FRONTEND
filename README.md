@@ -1,4 +1,4 @@
-<img width="639" height="946" alt="image" src="https://github.com/user-attachments/assets/d8cd30e7-1526-4273-b2bb-4ffd1d471019" /># TECHNICAL FRONTEND
+# TECHNICAL FRONTEND
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
 
@@ -13,3 +13,5 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+<img width="639" height="946" alt="image" src="https://github.com/user-attachments/assets/d8cd30e7-1526-4273-b2bb-4ffd1d471019" />
